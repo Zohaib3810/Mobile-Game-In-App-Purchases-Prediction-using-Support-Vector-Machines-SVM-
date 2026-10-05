@@ -1,4 +1,4 @@
-# # Mobile Game In-App Purchases Prediction using Support Vector Machines (SVM)
+#  Mobile Game In-App Purchases Prediction using Support Vector Machines (SVM)
 
 This repository contains an end-to-end Machine Learning pipeline utilizing **Support Vector Machines (SVM)** to analyze and predict user spending segments in a mobile gaming application. The project addresses data preprocessing, hyperparameter optimization across multiple SVM kernels, decision boundary visualization, and handling of class imbalances via multi-class classification strategies.
 
